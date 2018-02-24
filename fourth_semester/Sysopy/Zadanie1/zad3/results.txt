@@ -1,0 +1,1995 @@
+
+
+static zero
+tree
+
+create:
+real: 0.020394s
+user: 0.020000s
+system: 0.0s
+
+add:
+optimistic:
+real: 0.000006s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000004s
+user: 0.0s
+system: 0.0s
+
+delete:
+optimistic:
+real: 0.000012s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000005s
+user: 0.0s
+system: 0.0s
+
+find:
+optimistic:
+real: 0.000012s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000008s
+user: 0.0s
+system: 0.0s
+
+sort:
+email:
+real: 0.037772s
+user: 0.040000s
+system: 0.0s
+phone:
+real: 0.014273s
+user: 0.012000s
+system: 0.0s
+list
+
+create:
+real: 0.079116s
+user: 0.080000s
+system: 0.0s
+
+add:
+optimistic:
+real: 0.000006s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000212s
+user: 0.0s
+system: 0.0s
+
+delete:
+optimistic:
+real: 0.000005s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000213s
+user: 0.0s
+system: 0.0s
+
+find:
+optimistic:
+real: 0.000004s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000218s
+user: 0.0s
+system: 0.0s
+
+sort:
+email:
+real: 0.077000s
+user: 0.076000s
+system: 0.0s
+phone:
+real: 0.140968s
+user: 0.140000s
+system: 0.0s
+
+
+static one
+tree
+
+create:
+real: 0.011836s
+user: 0.012000s
+system: 0.0s
+
+add:
+optimistic:
+real: 0.000005s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000005s
+user: 0.0s
+system: 0.0s
+
+delete:
+optimistic:
+real: 0.000006s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000005s
+user: 0.0s
+system: 0.0s
+
+find:
+optimistic:
+real: 0.000007s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000006s
+user: 0.0s
+system: 0.0s
+
+sort:
+email:
+real: 0.020997s
+user: 0.020000s
+system: 0.0s
+phone:
+real: 0.009046s
+user: 0.012000s
+system: 0.0s
+list
+
+create:
+real: 0.073446s
+user: 0.076000s
+system: 0.0s
+
+add:
+optimistic:
+real: 0.000001s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000142s
+user: 0.0s
+system: 0.0s
+
+delete:
+optimistic:
+real: 0.000004s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000138s
+user: 0.0s
+system: 0.0s
+
+find:
+optimistic:
+real: 0.000003s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000172s
+user: 0.0s
+system: 0.0s
+
+sort:
+email:
+real: 0.069989s
+user: 0.072000s
+system: 0.0s
+phone:
+real: 0.128206s
+user: 0.128000s
+system: 0.0s
+
+
+static two
+tree
+
+create:
+real: 0.019510s
+user: 0.016000s
+system: 0.0s
+
+add:
+optimistic:
+real: 0.000006s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000006s
+user: 0.0s
+system: 0.0s
+
+delete:
+optimistic:
+real: 0.000012s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000018s
+user: 0.0s
+system: 0.0s
+
+find:
+optimistic:
+real: 0.000008s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000005s
+user: 0.0s
+system: 0.0s
+
+sort:
+email:
+real: 0.030941s
+user: 0.032000s
+system: 0.0s
+phone:
+real: 0.013908s
+user: 0.012000s
+system: 0.0s
+list
+
+create:
+real: 0.060915s
+user: 0.060000s
+system: 0.0s
+
+add:
+optimistic:
+real: 0.000002s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000145s
+user: 0.0s
+system: 0.0s
+
+delete:
+optimistic:
+real: 0.000005s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000142s
+user: 0.0s
+system: 0.0s
+
+find:
+optimistic:
+real: 0.000006s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000145s
+user: 0.0s
+system: 0.0s
+
+sort:
+email:
+real: 0.056910s
+user: 0.056000s
+system: 0.0s
+phone:
+real: 0.135393s
+user: 0.136000s
+system: 0.0s
+
+
+static three
+tree
+
+create:
+real: 0.009732s
+user: 0.008000s
+system: 0.0s
+
+add:
+optimistic:
+real: 0.000005s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000003s
+user: 0.0s
+system: 0.0s
+
+delete:
+optimistic:
+real: 0.000017s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000004s
+user: 0.0s
+system: 0.0s
+
+find:
+optimistic:
+real: 0.000016s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000003s
+user: 0.0s
+system: 0.0s
+
+sort:
+email:
+real: 0.018428s
+user: 0.020000s
+system: 0.0s
+phone:
+real: 0.008750s
+user: 0.008000s
+system: 0.0s
+list
+
+create:
+real: 0.048694s
+user: 0.048000s
+system: 0.0s
+
+add:
+optimistic:
+real: 0.000002s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000174s
+user: 0.0s
+system: 0.0s
+
+delete:
+optimistic:
+real: 0.000005s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000193s
+user: 0.0s
+system: 0.0s
+
+find:
+optimistic:
+real: 0.000004s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000178s
+user: 0.0s
+system: 0.0s
+
+sort:
+email:
+real: 0.072937s
+user: 0.072000s
+system: 0.0s
+phone:
+real: 0.131755s
+user: 0.132000s
+system: 0.0s
+
+
+static debug
+tree
+
+create:
+real: 0.007584s
+user: 0.008000s
+system: 0.0s
+
+add:
+optimistic:
+real: 0.000005s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000007s
+user: 0.0s
+system: 0.0s
+
+delete:
+optimistic:
+real: 0.000005s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000016s
+user: 0.0s
+system: 0.0s
+
+find:
+optimistic:
+real: 0.000004s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000003s
+user: 0.0s
+system: 0.0s
+
+sort:
+email:
+real: 0.018426s
+user: 0.016000s
+system: 0.0s
+phone:
+real: 0.008748s
+user: 0.008000s
+system: 0.0s
+list
+
+create:
+real: 0.056290s
+user: 0.056000s
+system: 0.0s
+
+add:
+optimistic:
+real: 0.000001s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000093s
+user: 0.0s
+system: 0.0s
+
+delete:
+optimistic:
+real: 0.000005s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000097s
+user: 0.0s
+system: 0.0s
+
+find:
+optimistic:
+real: 0.000002s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000086s
+user: 0.0s
+system: 0.0s
+
+sort:
+email:
+real: 0.041318s
+user: 0.040000s
+system: 0.0s
+phone:
+real: 0.111488s
+user: 0.112000s
+system: 0.0s
+
+
+static fast
+tree
+
+create:
+real: 0.009944s
+user: 0.012000s
+system: 0.0s
+
+add:
+optimistic:
+real: 0.000005s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000007s
+user: 0.0s
+system: 0.0s
+
+delete:
+optimistic:
+real: 0.000008s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000006s
+user: 0.0s
+system: 0.0s
+
+find:
+optimistic:
+real: 0.000009s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000007s
+user: 0.0s
+system: 0.0s
+
+sort:
+email:
+real: 0.022101s
+user: 0.024000s
+system: 0.0s
+phone:
+real: 0.010416s
+user: 0.008000s
+system: 0.0s
+list
+
+create:
+real: 0.056009s
+user: 0.056000s
+system: 0.0s
+
+add:
+optimistic:
+real: 0.000002s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000142s
+user: 0.0s
+system: 0.0s
+
+delete:
+optimistic:
+real: 0.000007s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000127s
+user: 0.0s
+system: 0.0s
+
+find:
+optimistic:
+real: 0.000004s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000117s
+user: 0.0s
+system: 0.0s
+
+sort:
+email:
+real: 0.054635s
+user: 0.056000s
+system: 0.0s
+phone:
+real: 0.119792s
+user: 0.120000s
+system: 0.0s
+
+
+static size
+tree
+
+create:
+real: 0.015793s
+user: 0.016000s
+system: 0.0s
+
+add:
+optimistic:
+real: 0.000008s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000010s
+user: 0.0s
+system: 0.0s
+
+delete:
+optimistic:
+real: 0.000012s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000011s
+user: 0.0s
+system: 0.0s
+
+find:
+optimistic:
+real: 0.000009s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000011s
+user: 0.0s
+system: 0.0s
+
+sort:
+email:
+real: 0.040255s
+user: 0.040000s
+system: 0.0s
+phone:
+real: 0.016147s
+user: 0.016000s
+system: 0.0s
+list
+
+create:
+real: 0.056520s
+user: 0.056000s
+system: 0.0s
+
+add:
+optimistic:
+real: 0.000002s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000248s
+user: 0.0s
+system: 0.004000s
+
+delete:
+optimistic:
+real: 0.000005s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000189s
+user: 0.0s
+system: 0.0s
+
+find:
+optimistic:
+real: 0.000004s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000201s
+user: 0.0s
+system: 0.0s
+
+sort:
+email:
+real: 0.077321s
+user: 0.076000s
+system: 0.0s
+phone:
+real: 0.141869s
+user: 0.144000s
+system: 0.0s
+
+
+shared zero
+tree
+
+create:
+real: 0.016727s
+user: 0.016000s
+system: 0.0s
+
+add:
+optimistic:
+real: 0.000006s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000008s
+user: 0.0s
+system: 0.0s
+
+delete:
+optimistic:
+real: 0.000011s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000008s
+user: 0.0s
+system: 0.0s
+
+find:
+optimistic:
+real: 0.000008s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000006s
+user: 0.0s
+system: 0.0s
+
+sort:
+email:
+real: 0.023493s
+user: 0.024000s
+system: 0.0s
+phone:
+real: 0.011647s
+user: 0.012000s
+system: 0.0s
+list
+
+create:
+real: 0.1948551s
+user: 0.052000s
+system: 0.0s
+
+add:
+optimistic:
+real: 0.000002s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000206s
+user: 0.0s
+system: 0.0s
+
+delete:
+optimistic:
+real: 0.000009s
+user: 0.004000s
+system: 0.0s
+pessimistic:
+real: 0.000179s
+user: 0.0s
+system: 0.0s
+
+find:
+optimistic:
+real: 0.000006s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000205s
+user: 0.0s
+system: 0.0s
+
+sort:
+email:
+real: 0.079652s
+user: 0.080000s
+system: 0.0s
+phone:
+real: 0.128476s
+user: 0.128000s
+system: 0.0s
+
+
+shared one
+tree
+
+create:
+real: 0.016900s
+user: 0.016000s
+system: 0.0s
+
+add:
+optimistic:
+real: 0.000010s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000006s
+user: 0.0s
+system: 0.0s
+
+delete:
+optimistic:
+real: 0.000019s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000009s
+user: 0.0s
+system: 0.0s
+
+find:
+optimistic:
+real: 0.000014s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000006s
+user: 0.0s
+system: 0.0s
+
+sort:
+email:
+real: 0.037218s
+user: 0.036000s
+system: 0.0s
+phone:
+real: 0.014987s
+user: 0.016000s
+system: 0.0s
+list
+
+create:
+real: 0.073351s
+user: 0.072000s
+system: 0.0s
+
+add:
+optimistic:
+real: 0.000003s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000207s
+user: 0.0s
+system: 0.0s
+
+delete:
+optimistic:
+real: 0.000007s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000207s
+user: 0.0s
+system: 0.0s
+
+find:
+optimistic:
+real: 0.000005s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000158s
+user: 0.0s
+system: 0.0s
+
+sort:
+email:
+real: 0.077732s
+user: 0.080000s
+system: 0.0s
+phone:
+real: 0.130526s
+user: 0.128000s
+system: 0.0s
+
+
+shared two
+tree
+
+create:
+real: 0.007327s
+user: 0.008000s
+system: 0.0s
+
+add:
+optimistic:
+real: 0.000008s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000006s
+user: 0.0s
+system: 0.0s
+
+delete:
+optimistic:
+real: 0.000016s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000006s
+user: 0.0s
+system: 0.0s
+
+find:
+optimistic:
+real: 0.000013s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000004s
+user: 0.0s
+system: 0.0s
+
+sort:
+email:
+real: 0.039646s
+user: 0.036000s
+system: 0.0s
+phone:
+real: 0.013491s
+user: 0.016000s
+system: 0.0s
+list
+
+create:
+real: 0.055862s
+user: 0.056000s
+system: 0.0s
+
+add:
+optimistic:
+real: 0.000001s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000129s
+user: 0.0s
+system: 0.0s
+
+delete:
+optimistic:
+real: 0.000006s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000158s
+user: 0.0s
+system: 0.0s
+
+find:
+optimistic:
+real: 0.000006s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000206s
+user: 0.0s
+system: 0.0s
+
+sort:
+email:
+real: 0.074875s
+user: 0.072000s
+system: 0.0s
+phone:
+real: 0.130417s
+user: 0.132000s
+system: 0.0s
+
+
+shared three
+tree
+
+create:
+real: 0.016907s
+user: 0.016000s
+system: 0.0s
+
+add:
+optimistic:
+real: 0.000012s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000012s
+user: 0.0s
+system: 0.0s
+
+delete:
+optimistic:
+real: 0.000014s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000009s
+user: 0.0s
+system: 0.0s
+
+find:
+optimistic:
+real: 0.000024s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000010s
+user: 0.0s
+system: 0.0s
+
+sort:
+email:
+real: 0.028462s
+user: 0.028000s
+system: 0.0s
+phone:
+real: 0.013239s
+user: 0.012000s
+system: 0.0s
+list
+
+create:
+real: 0.072470s
+user: 0.072000s
+system: 0.0s
+
+add:
+optimistic:
+real: 0.000002s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000208s
+user: 0.0s
+system: 0.0s
+
+delete:
+optimistic:
+real: 0.000010s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000198s
+user: 0.0s
+system: 0.0s
+
+find:
+optimistic:
+real: 0.000004s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000128s
+user: 0.0s
+system: 0.0s
+
+sort:
+email:
+real: 0.078479s
+user: 0.080000s
+system: 0.0s
+phone:
+real: 0.125529s
+user: 0.124000s
+system: 0.0s
+
+
+shared debug
+tree
+
+create:
+real: 0.006723s
+user: 0.004000s
+system: 0.0s
+
+add:
+optimistic:
+real: 0.000002s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000010s
+user: 0.0s
+system: 0.0s
+
+delete:
+optimistic:
+real: 0.000009s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000002s
+user: 0.0s
+system: 0.0s
+
+find:
+optimistic:
+real: 0.000007s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000002s
+user: 0.0s
+system: 0.0s
+
+sort:
+email:
+real: 0.012960s
+user: 0.012000s
+system: 0.0s
+phone:
+real: 0.006352s
+user: 0.008000s
+system: 0.0s
+list
+
+create:
+real: 0.049225s
+user: 0.048000s
+system: 0.0s
+
+add:
+optimistic:
+real: 0.000002s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000146s
+user: 0.0s
+system: 0.0s
+
+delete:
+optimistic:
+real: 0.000007s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000097s
+user: 0.0s
+system: 0.0s
+
+find:
+optimistic:
+real: 0.000003s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000091s
+user: 0.0s
+system: 0.0s
+
+sort:
+email:
+real: 0.039413s
+user: 0.040000s
+system: 0.0s
+phone:
+real: 0.097569s
+user: 0.096000s
+system: 0.0s
+
+
+shared fast
+tree
+
+create:
+real: 0.013502s
+user: 0.012000s
+system: 0.0s
+
+add:
+optimistic:
+real: 0.000006s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000012s
+user: 0.0s
+system: 0.0s
+
+delete:
+optimistic:
+real: 0.000010s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000008s
+user: 0.0s
+system: 0.0s
+
+find:
+optimistic:
+real: 0.000010s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000010s
+user: 0.0s
+system: 0.0s
+
+sort:
+email:
+real: 0.034044s
+user: 0.032000s
+system: 0.0s
+phone:
+real: 0.014128s
+user: 0.016000s
+system: 0.0s
+list
+
+create:
+real: 0.049953s
+user: 0.052000s
+system: 0.0s
+
+add:
+optimistic:
+real: 0.000002s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000205s
+user: 0.0s
+system: 0.0s
+
+delete:
+optimistic:
+real: 0.000007s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000206s
+user: 0.0s
+system: 0.0s
+
+find:
+optimistic:
+real: 0.000005s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000153s
+user: 0.0s
+system: 0.0s
+
+sort:
+email:
+real: 0.072315s
+user: 0.076000s
+system: 0.0s
+phone:
+real: 0.125848s
+user: 0.124000s
+system: 0.0s
+
+
+shared size
+tree
+
+create:
+real: 0.009955s
+user: 0.008000s
+system: 0.0s
+
+add:
+optimistic:
+real: 0.000009s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000021s
+user: 0.0s
+system: 0.0s
+
+delete:
+optimistic:
+real: 0.000021s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000011s
+user: 0.0s
+system: 0.0s
+
+find:
+optimistic:
+real: 0.000014s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000021s
+user: 0.0s
+system: 0.0s
+
+sort:
+email:
+real: 0.035595s
+user: 0.036000s
+system: 0.0s
+phone:
+real: 0.012698s
+user: 0.012000s
+system: 0.0s
+list
+
+create:
+real: 0.055770s
+user: 0.056000s
+system: 0.0s
+
+add:
+optimistic:
+real: 0.000002s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000210s
+user: 0.0s
+system: 0.0s
+
+delete:
+optimistic:
+real: 0.000007s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000196s
+user: 0.0s
+system: 0.0s
+
+find:
+optimistic:
+real: 0.000006s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000207s
+user: 0.0s
+system: 0.0s
+
+sort:
+email:
+real: 0.076346s
+user: 0.072000s
+system: 0.004000s
+phone:
+real: 0.132488s
+user: 0.132000s
+system: 0.0s
+
+
+dynamic zero
+tree
+
+create:
+real: 0.016534s
+user: 0.016000s
+system: 0.0s
+
+add:
+optimistic:
+real: 0.000008s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000008s
+user: 0.0s
+system: 0.0s
+
+delete:
+optimistic:
+real: 0.000019s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000010s
+user: 0.0s
+system: 0.0s
+
+find:
+optimistic:
+real: 0.000012s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000008s
+user: 0.0s
+system: 0.0s
+
+sort:
+email:
+real: 0.034165s
+user: 0.032000s
+system: 0.0s
+phone:
+real: 0.013327s
+user: 0.016000s
+system: 0.0s
+list
+
+create:
+real: 0.049953s
+user: 0.052000s
+system: 0.0s
+
+add:
+optimistic:
+real: 0.000003s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000206s
+user: 0.0s
+system: 0.0s
+
+delete:
+optimistic:
+real: 0.000010s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000196s
+user: 0.0s
+system: 0.0s
+
+find:
+optimistic:
+real: 0.000004s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000142s
+user: 0.004000s
+system: 0.0s
+
+sort:
+email:
+real: 0.077052s
+user: 0.076000s
+system: 0.0s
+phone:
+real: 0.131627s
+user: 0.132000s
+system: 0.0s
+
+
+dynamic one
+tree
+
+create:
+real: 0.016917s
+user: 0.020000s
+system: 0.0s
+
+add:
+optimistic:
+real: 0.000010s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000008s
+user: 0.0s
+system: 0.0s
+
+delete:
+optimistic:
+real: 0.000015s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000007s
+user: 0.0s
+system: 0.0s
+
+find:
+optimistic:
+real: 0.000008s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000005s
+user: 0.0s
+system: 0.0s
+
+sort:
+email:
+real: 0.024494s
+user: 0.024000s
+system: 0.0s
+phone:
+real: 0.009041s
+user: 0.008000s
+system: 0.0s
+list
+
+create:
+real: 0.050180s
+user: 0.048000s
+system: 0.0s
+
+add:
+optimistic:
+real: 0.000001s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000152s
+user: 0.0s
+system: 0.0s
+
+delete:
+optimistic:
+real: 0.000005s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000145s
+user: 0.0s
+system: 0.0s
+
+find:
+optimistic:
+real: 0.000003s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000127s
+user: 0.0s
+system: 0.0s
+
+sort:
+email:
+real: 0.051831s
+user: 0.052000s
+system: 0.0s
+phone:
+real: 0.119133s
+user: 0.120000s
+system: 0.0s
+
+
+dynamic two
+tree
+
+create:
+real: 0.017437s
+user: 0.016000s
+system: 0.0s
+
+add:
+optimistic:
+real: 0.000009s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000008s
+user: 0.0s
+system: 0.0s
+
+delete:
+optimistic:
+real: 0.000027s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000009s
+user: 0.0s
+system: 0.0s
+
+find:
+optimistic:
+real: 0.000015s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000008s
+user: 0.0s
+system: 0.0s
+
+sort:
+email:
+real: 0.034530s
+user: 0.036000s
+system: 0.0s
+phone:
+real: 0.013632s
+user: 0.012000s
+system: 0.0s
+list
+
+create:
+real: 0.072929s
+user: 0.072000s
+system: 0.0s
+
+add:
+optimistic:
+real: 0.000002s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000221s
+user: 0.0s
+system: 0.0s
+
+delete:
+optimistic:
+real: 0.000009s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000189s
+user: 0.0s
+system: 0.0s
+
+find:
+optimistic:
+real: 0.000009s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000197s
+user: 0.0s
+system: 0.0s
+
+sort:
+email:
+real: 0.070806s
+user: 0.072000s
+system: 0.0s
+phone:
+real: 0.131668s
+user: 0.132000s
+system: 0.0s
+
+
+dynamic three
+tree
+
+create:
+real: 0.012009s
+user: 0.012000s
+system: 0.0s
+
+add:
+optimistic:
+real: 0.000009s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000012s
+user: 0.0s
+system: 0.0s
+
+delete:
+optimistic:
+real: 0.000031s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000025s
+user: 0.0s
+system: 0.0s
+
+find:
+optimistic:
+real: 0.000012s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000011s
+user: 0.0s
+system: 0.0s
+
+sort:
+email:
+real: 0.029818s
+user: 0.028000s
+system: 0.004000s
+phone:
+real: 0.012084s
+user: 0.012000s
+system: 0.0s
+list
+
+create:
+real: 0.066290s
+user: 0.068000s
+system: 0.0s
+
+add:
+optimistic:
+real: 0.000002s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000196s
+user: 0.0s
+system: 0.0s
+
+delete:
+optimistic:
+real: 0.000010s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000169s
+user: 0.0s
+system: 0.004000s
+
+find:
+optimistic:
+real: 0.000008s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000172s
+user: 0.0s
+system: 0.0s
+
+sort:
+email:
+real: 0.059019s
+user: 0.060000s
+system: 0.0s
+phone:
+real: 0.1860893s
+user: 0.140000s
+system: 0.0s
+
+
+dynamic debug
+tree
+
+create:
+real: 0.009281s
+user: 0.008000s
+system: 0.0s
+
+add:
+optimistic:
+real: 0.000005s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000005s
+user: 0.0s
+system: 0.0s
+
+delete:
+optimistic:
+real: 0.000008s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000004s
+user: 0.0s
+system: 0.0s
+
+find:
+optimistic:
+real: 0.000011s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000005s
+user: 0.0s
+system: 0.0s
+
+sort:
+email:
+real: 0.018202s
+user: 0.016000s
+system: 0.004000s
+phone:
+real: 0.008861s
+user: 0.008000s
+system: 0.0s
+list
+
+create:
+real: 0.059698s
+user: 0.060000s
+system: 0.0s
+
+add:
+optimistic:
+real: 0.000001s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000129s
+user: 0.0s
+system: 0.0s
+
+delete:
+optimistic:
+real: 0.000008s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000150s
+user: 0.0s
+system: 0.0s
+
+find:
+optimistic:
+real: 0.000006s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000180s
+user: 0.0s
+system: 0.0s
+
+sort:
+email:
+real: 0.1939833s
+user: 0.060000s
+system: 0.0s
+phone:
+real: 0.124772s
+user: 0.124000s
+system: 0.0s
+
+
+dynamic fast
+tree
+
+create:
+real: 0.010811s
+user: 0.012000s
+system: 0.0s
+
+add:
+optimistic:
+real: 0.000004s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000005s
+user: 0.0s
+system: 0.0s
+
+delete:
+optimistic:
+real: 0.000010s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000005s
+user: 0.0s
+system: 0.0s
+
+find:
+optimistic:
+real: 0.000007s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000005s
+user: 0.0s
+system: 0.0s
+
+sort:
+email:
+real: 0.019540s
+user: 0.020000s
+system: 0.0s
+phone:
+real: 0.010076s
+user: 0.008000s
+system: 0.0s
+list
+
+create:
+real: 0.071497s
+user: 0.072000s
+system: 0.0s
+
+add:
+optimistic:
+real: 0.000003s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000207s
+user: 0.0s
+system: 0.0s
+
+delete:
+optimistic:
+real: 0.000007s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000147s
+user: 0.0s
+system: 0.0s
+
+find:
+optimistic:
+real: 0.000005s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000143s
+user: 0.0s
+system: 0.0s
+
+sort:
+email:
+real: 0.059221s
+user: 0.060000s
+system: 0.0s
+phone:
+real: 0.121944s
+user: 0.120000s
+system: 0.0s
+
+
+dynamic size
+tree
+
+create:
+real: 0.007208s
+user: 0.004000s
+system: 0.0s
+
+add:
+optimistic:
+real: 0.000004s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000002s
+user: 0.0s
+system: 0.0s
+
+delete:
+optimistic:
+real: 0.000011s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000003s
+user: 0.0s
+system: 0.0s
+
+find:
+optimistic:
+real: 0.000010s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000002s
+user: 0.0s
+system: 0.0s
+
+sort:
+email:
+real: 0.017685s
+user: 0.016000s
+system: 0.0s
+phone:
+real: 0.009916s
+user: 0.012000s
+system: 0.0s
+list
+
+create:
+real: 0.056145s
+user: 0.056000s
+system: 0.0s
+
+add:
+optimistic:
+real: 0.000001s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000140s
+user: 0.004000s
+system: 0.0s
+
+delete:
+optimistic:
+real: 0.000006s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000129s
+user: 0.004000s
+system: 0.0s
+
+find:
+optimistic:
+real: 0.000007s
+user: 0.0s
+system: 0.0s
+pessimistic:
+real: 0.000183s
+user: 0.0s
+system: 0.0s
+
+sort:
+email:
+real: 0.064315s
+user: 0.064000s
+system: 0.004000s
+phone:
+real: 0.123777s
+user: 0.120000s
+system: 0.0s

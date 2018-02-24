@@ -1,0 +1,10 @@
+{
+  "name": "my-project",
+  "description": "...",
+  "author": "John Doe <jdoe@mail.com>",
+  "dependencies": {
+    "async": "^0.2.10",
+    "q": "1.x"
+  },
+  "engine": "node >= 0.10.1"
+}

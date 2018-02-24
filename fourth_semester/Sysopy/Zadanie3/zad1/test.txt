@@ -1,0 +1,11 @@
+#XD 2
+pwd
+echo Argument XD: $XD
+
+ls -a -l
+pwd
+
+#XD
+echo XD unset: now it shall fail
+echo $XD
+

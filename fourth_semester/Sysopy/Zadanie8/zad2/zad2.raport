@@ -1,0 +1,55 @@
+Processor:	Intel(R) Core(TM) i5-2500K CPU @ 3.30GHz
+Kernel: 	Linux 4.4.0-72-generic (x86_64)
+Compiled: 	#93-Ubuntu SMP Fri Mar 31 14:07:41 UTC 2017
+Default C Compiler: 
+			GNU C Compiler version 5.4.0 20160609 (Ubuntu 5.4.0-6ubuntu1~16.04.4) 
+OS:		 	Zorin OS 12.1
+
+
+kill:
+	No mask:
+		[1]		4904 user-defined signal 1  ./bin/main 10 plik.txt 1000 secret
+		[1]		5180 terminated  			./bin/main 10 plik.txt 1000 secret
+		[1]		5250 killed     			./bin/main 10 plik.txt 1000 secret
+		[1]  + 	5307 suspended (signal)  	./bin/main 10 plik.txt 1000 secret
+
+	with mask on main thread: 
+		the same
+
+	with handler: 
+		main thread handles signal
+
+pthread_kill:
+	with mask: 
+		ignores signals SIGUSR1 and SIGTERM, kills process when sent SIGKILL 
+		and suspends process when sent SIGSTOP but manages to send it twice
+		or return if there is just one process
+
+	with signal handling:
+		SIGUSR1: 
+		12 processes:
+			IT'S TIME TO STOP 139889084266240
+			IT'S TIME TO STOP 139889075873536
+			IT'S TIME TO STOP 139889067480832
+			10423: 139889084266240 got 10
+			[9]    10423 user-defined signal 1  ./bin/main 12 plik.txt 1000 secret
+		1 process:
+			IT'S TIME TO STOP 140512266262272
+			KILLED 'EM ALL
+			10488: 140512266262272 got 10
+			[program exited]
+		SIGTERM:
+		12 processes:
+			IT'S TIME TO STOP 140361693095680
+			IT'S TIME TO STOP 140361684702976
+			[9]    10692 terminated  ./bin/main 12 plik.txt 1000 secret
+		1 process:
+			IT'S TIME TO STOP 139811870398208
+			KILLED 'EM ALL
+			10864: 139811870398208 got 15
+			[program exited]
+
+
+
+
+	

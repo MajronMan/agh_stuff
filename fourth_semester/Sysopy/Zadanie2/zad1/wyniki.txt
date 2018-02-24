@@ -1,0 +1,192 @@
+shuffle sys 1000 4
+
+real	0m0.031s
+user	0m0.000s
+sys	0m0.028s
+------------------
+sort sys 1000 4
+
+real	0m4.815s
+user	0m0.136s
+sys	0m4.676s
+------------------
+shuffle lib 1000 4
+
+real	0m0.020s
+user	0m0.000s
+sys	0m0.016s
+------------------
+sort lib 1000 4
+
+real	0m0.148s
+user	0m0.076s
+sys	0m0.068s
+------------------
+shuffle sys 1000 512
+
+real	0m0.020s
+user	0m0.004s
+sys	0m0.016s
+------------------
+sort sys 1000 512
+
+real	0m4.990s
+user	0m0.108s
+sys	0m4.880s
+------------------
+shuffle lib 1000 512
+
+real	0m0.045s
+user	0m0.000s
+sys	0m0.044s
+------------------
+sort lib 1000 512
+
+real	0m0.243s
+user	0m0.116s
+sys	0m0.124s
+------------------
+shuffle sys 1000 4096
+
+real	0m0.021s
+user	0m0.000s
+sys	0m0.020s
+------------------
+sort sys 1000 4096
+
+real	0m5.570s
+user	0m0.076s
+sys	0m5.492s
+------------------
+shuffle lib 1000 4096
+
+real	0m0.043s
+user	0m0.004s
+sys	0m0.036s
+------------------
+sort lib 1000 4096
+
+real	0m0.634s
+user	0m0.080s
+sys	0m0.552s
+------------------
+shuffle sys 1000 8192
+
+real	0m0.039s
+user	0m0.000s
+sys	0m0.036s
+------------------
+sort sys 1000 8192
+
+real	0m11.567s
+user	0m0.148s
+sys	0m11.412s
+------------------
+shuffle lib 1000 8192
+
+real	0m0.031s
+user	0m0.000s
+sys	0m0.020s
+------------------
+sort lib 1000 8192
+
+real	0m1.704s
+user	0m0.200s
+sys	0m1.496s
+------------------
+shuffle sys 5000 4
+
+real	0m0.139s
+user	0m0.004s
+sys	0m0.132s
+------------------
+sort sys 5000 4
+
+real	2m8.839s
+user	0m3.148s
+sys	2m5.656s
+------------------
+shuffle lib 5000 4
+
+real	0m0.107s
+user	0m0.004s
+sys	0m0.100s
+------------------
+sort lib 5000 4
+
+real	0m2.514s
+user	0m1.420s
+sys	0m1.092s
+------------------
+shuffle sys 5000 512
+
+real	0m0.108s
+user	0m0.000s
+sys	0m0.100s
+------------------
+sort sys 5000 512
+
+real	2m4.048s
+user	0m3.408s
+sys	2m0.632s
+------------------
+shuffle lib 5000 512
+
+real	0m0.153s
+user	0m0.012s
+sys	0m0.144s
+------------------
+sort lib 5000 512
+
+real	0m4.272s
+user	0m2.224s
+sys	0m2.044s
+------------------
+shuffle sys 5000 4096
+
+real	0m0.104s
+user	0m0.004s
+sys	0m0.096s
+------------------
+sort sys 5000 4096
+
+real	2m32.390s
+user	0m3.468s
+sys	2m28.600s
+------------------
+shuffle lib 5000 4096
+
+real	0m0.108s
+user	0m0.012s
+sys	0m0.096s
+------------------
+sort lib 5000 4096
+
+real	0m25.110s
+user	0m3.836s
+sys	0m21.268s
+------------------
+shuffle sys 5000 8192
+
+real	0m0.236s
+user	0m0.000s
+sys	0m0.232s
+------------------
+sort sys 5000 8192
+
+real	4m54.110s
+user	0m3.672s
+sys	4m50.372s
+------------------
+shuffle lib 5000 8192
+
+real	0m0.109s
+user	0m0.004s
+sys	0m0.104s
+------------------
+sort lib 5000 8192
+
+real	0m22.865s
+user	0m2.244s
+sys	0m20.620s
+------------------

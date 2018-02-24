@@ -1,0 +1,8 @@
+#XD 2
+pwd
+echo $XD
+
+
+./fail
+
+
