@@ -1,0 +1,32 @@
+syntax = "proto3";
+
+option java_multiple_files = true;
+option java_package = "sr.grpc";
+option java_outer_classname = "CurrencyProto";
+option objc_class_prefix = "HLW";
+
+enum CurrencyNameG {
+    PLN = 0;
+    USD = 1;
+    GBP = 2;
+    EUR = 3;
+    JPY = 4;
+}
+
+message CurrencyRate {
+    CurrencyNameG name = 1;
+    double rate = 2;
+}
+
+message RateStateRequest {
+    repeated CurrencyNameG currencies = 2;
+}
+
+message RateStateResponse{
+    repeated CurrencyRate rates = 1;
+}
+
+service Exchange {
+    rpc CurrentRates(RateStateRequest) returns (RateStateResponse) {}
+    rpc StreamRates(RateStateRequest) returns (stream CurrencyRate) {}
+}
